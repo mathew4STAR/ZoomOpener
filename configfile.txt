@@ -1,0 +1,2 @@
+Zoom_location: C:\Users\<your user account here>\AppData\Roaming\Zoom\bin\Zoom.exe
+Time = 2
